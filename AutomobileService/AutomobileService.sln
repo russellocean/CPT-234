@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutomobileService", "AutomobileService\AutomobileService.vcxproj", "{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Debug|x64.ActiveCfg = Debug|x64
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Debug|x64.Build.0 = Debug|x64
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Debug|x86.Build.0 = Debug|Win32
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Release|x64.ActiveCfg = Release|x64
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Release|x64.Build.0 = Release|x64
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Release|x86.ActiveCfg = Release|Win32
+		{DF3AAC2D-9ECB-40E7-BDC9-F6CF479FD0EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16088043-2300-4E0E-8A0D-AF89535BD873}
+	EndGlobalSection
+EndGlobal

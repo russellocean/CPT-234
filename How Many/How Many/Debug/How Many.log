@@ -1,0 +1,5 @@
+﻿  How Many.c
+D:\Dev\How Many\How Many\How Many.c(34,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Dev\How Many\How Many\How Many.c(35,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Dev\How Many\How Many\How Many.c(36,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  How Many.vcxproj -> D:\Dev\How Many\Debug\How Many.exe

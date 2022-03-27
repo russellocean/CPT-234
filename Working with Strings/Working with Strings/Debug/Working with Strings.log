@@ -1,0 +1,3 @@
+﻿  Working with Strings.c
+D:\Dev\Working with Strings\Working with Strings\Working with Strings.c(60,42): warning C4013: 'toupper' undefined; assuming extern returning int
+  Working with Strings.vcxproj -> D:\Dev\Working with Strings\Debug\Working with Strings.exe
