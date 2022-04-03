@@ -23,7 +23,8 @@ int main(void)
 
 	int counter = 1; // Used to keep track 
 
-	// *** Your program goes here ***
+	// *** Your program goes here ***\
+
 	for (row = 0; row < ARRAY_DIMINSIONS; row++) {
 		for (col = 0; col < ARRAY_DIMINSIONS; col++) {
 			numberArray[row][col] = counter; // Here we fill the array with our counter variable which increases with each loop
