@@ -53,6 +53,5 @@ int main(void)
 
 	printf("\n"); // Spacer from program and exit prompt
 
-	printf("dicksmash");
 	return 0;
 } // end main()
